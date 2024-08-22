@@ -411,7 +411,7 @@ main .text {
 }
 
 
-@media screen and ( max-width:1024px)  {
+@media screen and ( max-width:1024px) {
   #contents .container {
     flex-direction: column;
   }
@@ -590,7 +590,7 @@ Sidebar
   margin-bottom: 10px;
 }
 
-@media screen and (max-width:768px) and ( max-width:1024px) {
+@media screen and ( max-width:1024px) {
   #sidebar {
     flex-direction: column;
     width: 90%;
